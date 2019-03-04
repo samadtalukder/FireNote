@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Keep Note With Firebase</string>
+    <string name="action_logout">Logout</string>
+</resources>

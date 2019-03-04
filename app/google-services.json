@@ -1,0 +1,188 @@
+{
+  "project_info": {
+    "project_number": "734980786266",
+    "firebase_url": "https://androidapp-6337d.firebaseio.com",
+    "project_id": "androidapp-6337d",
+    "storage_bucket": "androidapp-6337d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734980786266:android:b91b3279f9254218",
+        "android_client_info": {
+          "package_name": "com.samad.talukder.androidkeepnotewithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734980786266-gre9sqgublj1a4c7a96n980nngfphhab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samad.talukder.androidkeepnotewithfirebase",
+            "certificate_hash": "114a0ec40ed09f2252a5ea87fe436739fcc07285"
+          }
+        },
+        {
+          "client_id": "734980786266-ctd8r1b13ie16qrkg345sic42onkn6tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEvlrv-zfgATicn762sXrhLpHJCpX_a8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734980786266-ctd8r1b13ie16qrkg345sic42onkn6tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734980786266:android:5508b6638c601d86",
+        "android_client_info": {
+          "package_name": "com.samad.talukder.vtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734980786266-gegefkb0o266hqujohelkq6ha66h9g49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samad.talukder.vtube",
+            "certificate_hash": "114a0ec40ed09f2252a5ea87fe436739fcc07285"
+          }
+        },
+        {
+          "client_id": "734980786266-ctd8r1b13ie16qrkg345sic42onkn6tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEvlrv-zfgATicn762sXrhLpHJCpX_a8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734980786266-ctd8r1b13ie16qrkg345sic42onkn6tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734980786266:android:bfdddb3994358211",
+        "android_client_info": {
+          "package_name": "com.samadtalukder.quotesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734980786266-gj1ha5vhbb7sd3jeags0c8limmd4nf32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samadtalukder.quotesapp",
+            "certificate_hash": "114a0ec40ed09f2252a5ea87fe436739fcc07285"
+          }
+        },
+        {
+          "client_id": "734980786266-ctd8r1b13ie16qrkg345sic42onkn6tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEvlrv-zfgATicn762sXrhLpHJCpX_a8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734980786266-ctd8r1b13ie16qrkg345sic42onkn6tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734980786266:android:2bf820fc3eb079f6",
+        "android_client_info": {
+          "package_name": "samadtalukder.youtube.channel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734980786266-uskcmi67lkk2q3vbl39tv43b7sre14i9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "samadtalukder.youtube.channel",
+            "certificate_hash": "114a0ec40ed09f2252a5ea87fe436739fcc07285"
+          }
+        },
+        {
+          "client_id": "734980786266-ctd8r1b13ie16qrkg345sic42onkn6tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEvlrv-zfgATicn762sXrhLpHJCpX_a8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734980786266-ctd8r1b13ie16qrkg345sic42onkn6tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-7248617906167364~5798470133"
+    }
+  ],
+  "configuration_version": "1"
+}
